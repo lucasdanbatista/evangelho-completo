@@ -1,4 +1,4 @@
 export default {
-    youtubeApiKey: 'AIzaSyBuPj3qRPTpPe3USPcpouSzZ_p66XRtu9g',
+    youtubeApiKey: 'AIzaSyBnaLfzgtZGE97WsXwTFmP-II4lkcXCbSU',
     youtubeChannelId: 'UC3Awp183E_IbbK7dH-_-mSw'
 }
